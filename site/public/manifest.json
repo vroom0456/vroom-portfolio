@@ -1,0 +1,271 @@
+{
+  "hero": "hero.jpg",
+  "about": "about.jpg",
+  "categories": [
+    {
+      "slug": "finest-clicks",
+      "name": "Finest Clicks",
+      "photos": [
+        {
+          "file": "finest-clicks-3-006.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "finest-clicks-3-007.jpg",
+          "w": 958,
+          "h": 1277
+        },
+        {
+          "file": "finest-clicks-14-050.jpg",
+          "w": 1306,
+          "h": 980
+        },
+        {
+          "file": "finest-clicks-14-051.jpg",
+          "w": 1306,
+          "h": 980
+        },
+        {
+          "file": "finest-clicks-14-052.jpg",
+          "w": 820,
+          "h": 932
+        }
+      ]
+    },
+    {
+      "slug": "chromatic-clouds",
+      "name": "Chromatic Clouds \u2014 Unreal Sunsets",
+      "photos": [
+        {
+          "file": "chromatic-clouds-4-009.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "chromatic-clouds-4-010.jpg",
+          "w": 922,
+          "h": 1229
+        }
+      ]
+    },
+    {
+      "slug": "shot-framed",
+      "name": "Shot & Framed",
+      "photos": [
+        {
+          "file": "shot-framed-5-012.jpg",
+          "w": 615,
+          "h": 820
+        },
+        {
+          "file": "shot-framed-5-013.jpg",
+          "w": 614,
+          "h": 820
+        },
+        {
+          "file": "shot-framed-5-014.jpg",
+          "w": 615,
+          "h": 820
+        },
+        {
+          "file": "shot-framed-5-015.jpg",
+          "w": 615,
+          "h": 820
+        }
+      ]
+    },
+    {
+      "slug": "frame-favourites",
+      "name": "Frame Favourites",
+      "photos": [
+        {
+          "file": "frame-favourites-6-017.jpg",
+          "w": 816,
+          "h": 1088
+        },
+        {
+          "file": "frame-favourites-6-018.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "frame-favourites-6-019.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "frame-favourites-7-021.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "frame-favourites-7-022.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "frame-favourites-7-023.jpg",
+          "w": 820,
+          "h": 1093
+        },
+        {
+          "file": "frame-favourites-8-025.jpg",
+          "w": 980,
+          "h": 1306
+        },
+        {
+          "file": "frame-favourites-8-026.jpg",
+          "w": 896,
+          "h": 1591
+        },
+        {
+          "file": "frame-favourites-8-027.jpg",
+          "w": 1170,
+          "h": 1560
+        }
+      ]
+    },
+    {
+      "slug": "mood-gloom",
+      "name": "Mood: Gloom",
+      "photos": [
+        {
+          "file": "mood-gloom-9-029.jpg",
+          "w": 922,
+          "h": 1152
+        },
+        {
+          "file": "mood-gloom-9-030.jpg",
+          "w": 936,
+          "h": 1248
+        },
+        {
+          "file": "mood-gloom-9-031.jpg",
+          "w": 918,
+          "h": 1224
+        }
+      ]
+    },
+    {
+      "slug": "clicks-reimagined",
+      "name": "Clicks Reimagined",
+      "photos": [
+        {
+          "file": "clicks-reimagined-10-033.jpg",
+          "w": 889,
+          "h": 1185
+        },
+        {
+          "file": "clicks-reimagined-10-034.jpg",
+          "w": 915,
+          "h": 1220
+        },
+        {
+          "file": "clicks-reimagined-10-035.jpg",
+          "w": 1024,
+          "h": 768
+        },
+        {
+          "file": "clicks-reimagined-10-036.jpg",
+          "w": 676,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "slug": "lunar-dreams",
+      "name": "Lunar Dreams \u2014 The Moon",
+      "photos": [
+        {
+          "file": "lunar-dreams-11-038.jpg",
+          "w": 1024,
+          "h": 1024
+        },
+        {
+          "file": "lunar-dreams-11-039.jpg",
+          "w": 778,
+          "h": 1383
+        },
+        {
+          "file": "lunar-dreams-11-040.jpg",
+          "w": 1600,
+          "h": 1067
+        },
+        {
+          "file": "lunar-dreams-12-042.jpg",
+          "w": 961,
+          "h": 1281
+        },
+        {
+          "file": "lunar-dreams-12-043.jpg",
+          "w": 908,
+          "h": 1210
+        },
+        {
+          "file": "lunar-dreams-12-044.jpg",
+          "w": 908,
+          "h": 1210
+        }
+      ]
+    },
+    {
+      "slug": "timeless-portraits",
+      "name": "Timeless Portraits",
+      "photos": [
+        {
+          "file": "timeless-portraits-13-046.jpg",
+          "w": 900,
+          "h": 1200
+        },
+        {
+          "file": "timeless-portraits-13-047.jpg",
+          "w": 900,
+          "h": 1200
+        },
+        {
+          "file": "timeless-portraits-13-048.jpg",
+          "w": 900,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "slug": "favs",
+      "name": "Favs",
+      "photos": [
+        {
+          "file": "favs-15-054.jpg",
+          "w": 980,
+          "h": 735
+        },
+        {
+          "file": "favs-15-055.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "favs-15-056.jpg",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "slug": "greens-yellows",
+      "name": "Greens and Yellows",
+      "photos": [
+        {
+          "file": "greens-yellows-16-058.jpg",
+          "w": 885,
+          "h": 1548
+        },
+        {
+          "file": "greens-yellows-16-059.jpg",
+          "w": 901,
+          "h": 1600
+        }
+      ]
+    }
+  ]
+}
